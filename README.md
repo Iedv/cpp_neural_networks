@@ -1,4 +1,4 @@
-# c++ Neural Networks
+# C++ Neural Networks
 
 标准：c++14
 
